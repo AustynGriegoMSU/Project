@@ -4,6 +4,22 @@
 ## Date: November 23rd, 2024
 ## Project Title: Not So Accurate Weather App
 
+## OPTION A -- Web Application using trained model
+Option A: Build a Web App for a Machine Learning Model
+Train a machine learning model on a dataset of your choice and create a web-based application to allow users to interact with it. You may use Flask or a similar web framework (here is a brief tutorial on using FlaskLinks to an external site.). This short lessonLinks to an external site. in a Microsoft online course on ML also covers how to "pickle" your model so that it can be used by your app. 
+
+Proposal Requirements
+Model Overview:
+Briefly describe the machine learning model you plan to use (this can be a very basic type of model, given that you will be creating an app for it) -- NEURAL NETWORK
+Include a justification for choosing this model, and point out why another type of model might not be a good choice
+Dataset -- WEATHER PATTERNS, WEATHER COMPLEXITY
+Describe the dataset you will use to train your model, including the source and the features. -- NOAA DATASET
+App Functionality
+Describe how users will interact with the model through the web app -- USER ENTERS ZIPCODE THEY WANT A FORECAST FOR
+Outline any additional features (e.g., user input, visualizations, feedback) -- RETURN A FORECAST OF HIGH LOW RAIN/SNOW/AVG WIND
+Tools and Technologies
+Specify which frameworks or tools (e.g., Flask, HTML, CSS, etc.) you will use to build the app. -- FLASK, HTML, COPILOT, TENSFLOW
+
 ## Overview
 The Not So Accurate Weather App is a web application that provides weather forecasts based on historical weather data from NOAA. The app uses Neural Network machine learning models to predict various weather parameters such as maximum temperature (TMAX), minimum temperature (TMIN), precipitation (PRCP), snowfall (SNOW), and average wind speed (AWND). The app is built using Flask and provides a user-friendly interface for entering a zipcode and viewing the (not-so-accurate) forecast.
 
@@ -83,3 +99,5 @@ not-so-accurate-weather-app/
     ├── [prcp_model.pkl]
     ├── [snow_model.pkl]
     └── [awnd_model.pkl]
+
+## PROJECT CITATIONS
