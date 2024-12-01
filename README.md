@@ -115,6 +115,3 @@ National Oceanic and Atmospheric Administration (NOAA). (2023). National Weather
 
 Acknowledgment Microsoft Copilot
 The development team acknowledges the use of Microsoft Copilot as an AI assistant to improve and expedite the project development process. The insights and suggestions provided by Copilot have been invaluable in achieving the project’s goals.
-
-
-
