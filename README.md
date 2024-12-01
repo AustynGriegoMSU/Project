@@ -217,6 +217,8 @@ not-so-accurate-weather-app/
     └── [awnd_model.pkl]
 
 ## PROJECT CITATIONS
+Github -- project management
+
 Deployment - Heroku
 Heroku. (2024). Deployments Made Easy A Step-by-Step Guide. Retrieved from http://www.heroku.com/ 
 
