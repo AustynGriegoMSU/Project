@@ -101,3 +101,20 @@ not-so-accurate-weather-app/
     └── [awnd_model.pkl]
 
 ## PROJECT CITATIONS
+Deployment - Heroku
+Heroku. (2024). Deployments Made Easy A Step-by-Step Guide. Retrieved from http://www.heroku.com/ 
+
+
+ZIPPOPOTAM
+Zippopotamus. (2024). Zip Code Galore. Retrieved from http://www.zippopotam.us/
+
+
+NOAA
+National Oceanic and Atmospheric Administration (NOAA). (2023). National Weather Service API. National Centers for Environmental Information. https://www.weather.gov/documentation/services-web-api
+
+
+Acknowledgment Microsoft Copilot
+The development team acknowledges the use of Microsoft Copilot as an AI assistant to improve and expedite the project development process. The insights and suggestions provided by Copilot have been invaluable in achieving the project’s goals.
+
+
+
